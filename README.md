@@ -26,14 +26,13 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
   <img align="center" alt="Alyce-HTML" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 		
   <img align="center" alt="Alyce-CSS" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Alyce-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
 	
   <img align="center" alt="Alyce-JS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 		
 </div>  
 <br>
 <div>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/>
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
@@ -41,6 +40,7 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"/>
 	
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"/>
+  
 </div>	
 
 
