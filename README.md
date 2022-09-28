@@ -32,7 +32,7 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
   <img align="center" alt="Alyce-JS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
 		
 </div>  
-
+<br>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/>
           
