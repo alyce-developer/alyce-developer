@@ -15,11 +15,11 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 ##
 <br>
 
-<div>
-  <a href="https://github.com/alyce-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyce-developer&langs_count=4&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyce-developer&show_icons=true&theme=radical">
-</div>  
+//<div>
+  //<a href="https://github.com/alyce-developer">
+  //<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyce-developer&langs_count=4&theme=radical">
+  //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyce-developer&show_icons=true&theme=radical">
+//</div>  
 
 <div style="display: inline_block"><br>
 
