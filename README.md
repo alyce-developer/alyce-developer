@@ -11,13 +11,13 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 <br>
 <br>
 
-<p style="font-size: 50">Conecte-se comigo!</p>
+<h2>Conecte-se comigo!</h2>
 <div>
   <a href="https://www.linkedin.com/in/alyce-monteiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 <br>
 
-<h5>Minhas habilidades:</h5>
+##<h2>Minhas habilidades:</h2>
 
 <div style="display: inline"><br>
 
