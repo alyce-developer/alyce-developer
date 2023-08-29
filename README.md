@@ -10,19 +10,28 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Fac
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h5>
 
 <div>
-  <a href="https://www.linkedin.com/in/alyce-monteiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/alyce-monteiro/)
   
 ##
 <br>
 
+Minhas habilidades:
+
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Alyce-HTML" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 		
-  <img align="center" alt="Alyce-CSS" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 	
-  <img align="center" alt="Alyce-JS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+  ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+
+  ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+
+  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+  ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 		
 </div>  
 <br>
