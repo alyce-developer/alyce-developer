@@ -17,7 +17,7 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 </div>
 <br>
 
-##<h2>Minhas habilidades:</h2>
+## <h2>Minhas habilidades:</h2>
 
 <div style="display: inline"><br>
 
