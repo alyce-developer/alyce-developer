@@ -9,7 +9,6 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Fac
 
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h4>
 <br>
-<br>
 
 <h2>Conecte-se comigo 🙋‍♀️</h2>
 <div>
@@ -19,7 +18,7 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 
 ## <h2>Minhas habilidades:</h2>
 
-<div style="display: inline"><br>
+<div style="display: inline-block"><br>
 
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 		
