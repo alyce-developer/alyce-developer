@@ -1,4 +1,4 @@
-## Olá, eu sou a Alyce Monteiro! 😃 
+## <h1>Olá, eu sou a Alyce Monteiro! 😃</h1> 
 
 <h4>Uma jovem no início de seus 20 anos, dedicada a conquistar a indepêndencia financeira e ao mesmo tempo servir para o avanço da área tech. 
 
@@ -20,7 +20,7 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 
 ## <h2>Minhas habilidades:</h2>
 
-<div><br>
+<div style="position: relative"><br>
 
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 		
