@@ -9,15 +9,14 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Fac
 
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h5>
 
-<div >
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)(https://www.linkedin.com/in/alyce-monteiro/)]
+<div>
+  <a href="https://www.linkedin.com/in/alyce-monteiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
-##
 <br>
 
-Minhas habilidades:
+<h4>Minhas habilidades:</h4>
 
-<div style="display: inline_block"><br>
+<div style="display: inline"><br>
 
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 		
@@ -35,16 +34,4 @@ Minhas habilidades:
 		
 </div>  
 <br>
-<div>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
-	
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"/>
-	
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"/>
-  
-</div>	
-
 
