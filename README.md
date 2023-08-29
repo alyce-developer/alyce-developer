@@ -20,21 +20,21 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 
 ## <h2>Minhas habilidades:</h2>
 
-<div>
+<div display="flex">
 
-  ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+  <div>![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)</div>
 		
-  ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+  <div>![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)</div>
 	
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+  <div>![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)</div>
 
-  ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+  <div>![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)</div>
+  
+  <div>![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)</div>
 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+  <div>![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)</div>
 
-  ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-
-  ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+  <div>![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)</div>
   
 </div>  
 <br>
