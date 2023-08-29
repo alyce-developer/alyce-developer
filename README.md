@@ -11,7 +11,7 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 <br>
 <br>
 
-<p style="font-size: 25">Conecte-se comigo!</p>
+<p style="font-size: 50">Conecte-se comigo!</p>
 <div>
   <a href="https://www.linkedin.com/in/alyce-monteiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
