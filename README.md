@@ -16,6 +16,8 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 </div>
 <br>
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alyce-developer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## <h2>Minhas habilidades:</h2>
 
 <div style="display: inline-block"><br>
