@@ -6,6 +6,7 @@ Minha paixão por tecnologia me fez ter coragem de mergulhar nesta área e me de
   
 A partir disso, busquei cursos para me ajudar nesse caminho, e encontrei a Gama Academy, onde me formei no final de 2022 em Desenvolvimento Web Full Stack.  
 Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Faculdades.
+
 Também estou participando do Bootcamp Santander + Dio, com foco em Angular e Java. 
 
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h4>
