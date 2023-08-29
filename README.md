@@ -9,12 +9,14 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Fac
 
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h5>
 
+<h6>Conecte-se comigo!</h6>
+<br>
 <div>
   <a href="https://www.linkedin.com/in/alyce-monteiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 <br>
 
-<h4>Minhas habilidades:</h4>
+<h5>Minhas habilidades:</h5>
 
 <div style="display: inline"><br>
 
