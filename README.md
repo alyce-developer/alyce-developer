@@ -9,6 +9,8 @@ Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Fac
 
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h4>
 <br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alyce-developer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br>
 
 <h2>Conecte-se comigo 🙋‍♀️</h2>
 <div>
@@ -16,11 +18,9 @@ Acredito na persistência, no foco, na dedicação e na constância, que também
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alyce-developer&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## <h2>Minhas habilidades:</h2>
 
-<div style="display: inline-block"><br>
+<div style="display: flex"><br>
 
   ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 		
