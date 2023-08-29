@@ -8,9 +8,10 @@ A partir disso, busquei cursos para me ajudar nesse caminho, e encontrei a Gama 
 Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na UNICORP Faculdades.
 
 Acredito na persistência, no foco, na dedicação e na constância, que também são pontos fundamentais que me ajudam nesse novo caminho de trabalho e de vida. </h5>
-
-<h6>Conecte-se comigo!</h6>
 <br>
+<br>
+
+<p style="font-size: 25px">Conecte-se comigo!</p>
 <div>
   <a href="https://www.linkedin.com/in/alyce-monteiro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
